@@ -1,4 +1,4 @@
-package day3.question1;
+package day2b.question1;
 
 public class HourlyEmployee implements Employee {
 

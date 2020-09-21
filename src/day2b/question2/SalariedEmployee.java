@@ -1,4 +1,4 @@
-package day3.question2;
+package day2b.question2;
 
 public class SalariedEmployee extends Employee implements Paybale{
 

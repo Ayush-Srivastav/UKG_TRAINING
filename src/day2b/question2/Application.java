@@ -1,8 +1,8 @@
-package day3.question2;
+package day2b.question2;
 
-import day3.question2.CommissionEmployee;
-import day3.question2.HourlyEmployee;
-import day3.question2.SalariedEmployee;
+import day2b.question2.CommissionEmployee;
+import day2b.question2.HourlyEmployee;
+import day2b.question2.SalariedEmployee;
 
 public class Application {
 
